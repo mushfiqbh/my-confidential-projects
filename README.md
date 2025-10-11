@@ -7,8 +7,8 @@ This repository contains a collection of **private and internal projects** devel
 ---
 
 ## 🔧 Projects Live Link 
--- [Barnomala EIMS](https://barnomala.com)
--- [MS3 Technology BD](https://ms3technology.com.bd)
+- [Barnomala EIMS](https://barnomala.com)
+- [MS3 Technology BD](https://ms3technology.com.bd)
 
 ---
 

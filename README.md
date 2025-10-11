@@ -6,13 +6,9 @@ This repository contains a collection of **private and internal projects** devel
 
 ---
 
-## 🔧 Contents
-- Private and client-based applications
-- Internal automation tools
-- UI/UX prototypes and design systems
-- API integrations and backend utilities
-
-> Note: Source code and project data are intentionally **not included** to respect company confidentiality and NDA terms.
+## 🔧 Projects Live Link 
+-- [Barnomala EIMS](https://barnomala.com)
+-- [MS3 Technology BD](https://ms3technology.com.bd)
 
 ---
 

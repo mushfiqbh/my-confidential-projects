@@ -8,6 +8,7 @@ This repository contains a collection of **private and internal projects** devel
 
 ## 🔧 Projects Live Link 
 - [Barnomala EIMS](https://barnomala.com)
+
 - [MS3 Technology BD](https://ms3technology.com.bd)
 
 ---
@@ -36,8 +37,7 @@ The original code, designs, and assets remain the **intellectual property of the
 ---
 
 ## 🧑‍💻 Author
-**Mushfiq Rahman**  
-Full-Stack Developer | CSE Student | Tech Enthusiast  
-[GitHub: mushfiqbh](https://github.com/mushfiqbh)
+**Nd. Mushfiqur Rahman**  
+Full-Stack Developer @ [MS3 Technology BD](https://ms3technology.com.bd) | CSE Student | Tech Enthusiast  
 
 ---

@@ -37,7 +37,7 @@ The original code, designs, and assets remain the **intellectual property of the
 ---
 
 ## 🧑‍💻 Author
-**Nd. Mushfiqur Rahman**  
+**Md. Mushfiqur Rahman**  
 Full-Stack Developer @ [MS3 Technology BD](https://ms3technology.com.bd) | CSE Student | Tech Enthusiast  
 
 ---
